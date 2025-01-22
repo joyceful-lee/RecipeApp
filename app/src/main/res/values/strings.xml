@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="lets_go">Let\'s Go</string>
+    <string name="splashBgText">Image of Food</string>
+</resources>
